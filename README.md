@@ -3,7 +3,7 @@
 - 🌱 I’m currently exploring Github for version control of my do files for reproducible research
 - 💞️ I’m looking to collaborate with other researchers using Github
 - 📫 I can be reached at abbas.zaheer08@gmail.com
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Him/His
 
 <!---
 AbbasZaheerSag/AbbasZaheerSag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
